@@ -48,3 +48,5 @@ Check out my projects
 GitHub: IvannEmmanuel
 Email: ivandadacay5@gmail.com
 Feel free to reach out for collaborations or questions! 💬
+
+[![Magdeline's github stats] (https://github-readme-stats.vercel.app/api?username=IvannEmmanuel&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
