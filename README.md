@@ -7,7 +7,7 @@ Studying BSIT at the University of University of Science and Technology of South
 🌱 #ASelfTaughtProgrammer
 📊 Currently learning about machine learning
 
-ameworks
+Frameworks
 Laravel: 75% - Building robust PHP-based web apps 🐘
 React Native: 95% - Crafting cross-platform mobile solutions 📱
 React JS + Vite: 80% - Developing fast, modern front-ends ⚛️
