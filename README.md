@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I’m a passionate developer with expertise in ful
 
 🎓 About Me
 * Software Engineer sharing my journey and learnings in tech! 🚀
-* Studying BSIT at the University of University of Science and Technology of Southern Philippines
+* Studying BSIT at the [University of University of Science and Technology of Southern Philippines](https://www.facebook.com/ustp2016)
 * 🌱 #ASelfTaughtProgrammer
 * 📊 Currently learning about machine learning
 
