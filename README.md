@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I’m a passionate developer with expertise in ful
 * HTML 🏷️
 * CSS/CSS3 🎨
 * SASS 🎨
+* Bootstrap
+* Tailwind
   
 **Databases**
 * SQL:
