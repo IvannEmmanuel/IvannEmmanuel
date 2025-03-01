@@ -46,7 +46,7 @@ Check out my projects
 
 **🤝 Let’s Connect**
 GitHub: IvannEmmanuel
-Email: [ivandadacay5@gmail.com]
+Email: ivandadacay5@gmail.com
 Feel free to reach out for collaborations or questions! 💬
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvannEmmanuel&show_icons=true&theme=dracula)
