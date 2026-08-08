@@ -28,7 +28,7 @@ Self-taught programmer with experience in full-stack development, mobile apps, a
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IvannEmmanuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Streak](https://streak-stats.demolab.com/?user=IvannEmmanuel&theme=dark&hide_border=false)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IvannEmmanuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![WakaTime](https://wakatime.com/badge/user/9081aaeb-1492-48c9-8f0b-151f256239f3.svg)](https://wakatime.com/@9081aaeb-1492-48c9-8f0b-151f256239f3)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IvannEmmanuel&theme=dracula&hide_border=true)
 
 ## Contact
 
