@@ -25,10 +25,16 @@ Self-taught programmer with experience in full-stack development, mobile apps, a
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IvannEmmanuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Streak](https://streak-stats.demolab.com/?user=IvannEmmanuel&theme=dark&hide_border=false)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IvannEmmanuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvannEmmanuel&theme=dark)
+<table>
+<tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=IvannEmmanuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
+<td><img src="https://streak-stats.demolab.com/?user=IvannEmmanuel&theme=dark&hide_border=false" /></td>
+</tr>
+<tr>
+<td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IvannEmmanuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvannEmmanuel&theme=dark&hide_logo=true" /></td>
+</tr>
+</table>
 
 ## Contact
 
