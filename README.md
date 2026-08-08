@@ -28,7 +28,7 @@ Self-taught programmer with experience in full-stack development, mobile apps, a
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IvannEmmanuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Streak](https://streak-stats.demolab.com/?user=IvannEmmanuel&theme=dark&hide_border=false)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IvannEmmanuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=IvannEmmanuel&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=IvannEmmanuel&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ## Contact
 
@@ -37,4 +37,4 @@ GitHub: [@IvannEmmanuel](https://github.com/IvannEmmanuel) · Email: [ivandadaca
 Open to collaborations and questions — feel free to reach out.
 
 ---
-[![Visitors](https://visitcount.itsvg.in/api?id=IvannEmmanuel&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitors](https://komarev.com/ghpvc/?username=IvannEmmanuel&color=blue&style=flat)](https://github.com/IvannEmmanuel)
