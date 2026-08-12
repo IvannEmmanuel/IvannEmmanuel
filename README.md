@@ -13,7 +13,7 @@ Self-taught programmer with experience in full-stack development, mobile apps, a
 
 **Languages** — JavaScript · TypeScript · Python · C++ · Java · PHP
 
-**Frameworks** — React · React Native · Next.js · Laravel · Express · Mongoose
+**Frameworks** — React · React Native · Next.js · Laravel · Express
 
 **Web** — HTML5 · CSS3 · Bootstrap · Tailwind
 
