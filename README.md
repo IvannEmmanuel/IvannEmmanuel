@@ -21,7 +21,7 @@ Self-taught programmer with experience in full-stack development, mobile apps, a
 
 **Tools** — Git · GitHub · Postman · Figma · Jira · DBeaver · MySQL Workbench
 
-**Cloud & Hosting** — Vercel · Netlify · Heroku · Google Cloud · Cloudflare
+**Cloud & Hosting** — Vercel · Netlify · Heroku · Google Cloud · Cloudflare * Render
 
 ## GitHub Stats
 
